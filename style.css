@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 @import url(https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+
 body {
   color: #FFF;
   background: #fff;
@@ -66,15 +67,12 @@ ul.social-icons {
 
 .fa-facebook {
   padding: 10px 14px 7px 14px;
-  background-color: #fff;
-}
-
-.fa {
   -o-transition: .5s;
   -ms-transition: .5s;
   -moz-transition: .5s;
   -webkit-transition: .5s;
   transition: .5s;
+  background-color: #fff;
 }
 
 .fa-facebook:hover {
@@ -83,6 +81,11 @@ ul.social-icons {
 
 .fa-twitter {
   padding: 10px 10px 7px 10px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
   background-color: #fff;
 }
 
@@ -92,6 +95,11 @@ ul.social-icons {
 
 .fa-youtube {
   padding: 10px 12px 7px 11px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
   background-color: #fff;
 }
 
@@ -101,11 +109,16 @@ ul.social-icons {
 
 .fa-instagram {
   padding: 10px 11px 8px 11px;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
   background-color: #fff;
 }
 
 .fa-instagram:hover {
-  background-color: #9b6954;
+  background-color: #6dc993;
 }
 
 .main {
